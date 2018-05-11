@@ -11,4 +11,11 @@ The only exeption is the "serial" file that's exclusive for who has arduino. Tha
 external. You can just ignore it if you don't want it.
 
 
+////
+
+References: 
+
+Processing tutorial:
+http://www.local-guru.net/projects/processing_tutorial/tutorial.pdf
+
 
